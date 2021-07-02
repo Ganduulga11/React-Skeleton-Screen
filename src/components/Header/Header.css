@@ -1,0 +1,10 @@
+.header {
+	background-color: #1e65ff;
+	padding: 10px;
+}
+
+.header h1 {
+	color: aqua;
+	max-width: 1200px;
+	margin: 0 auto;
+}
